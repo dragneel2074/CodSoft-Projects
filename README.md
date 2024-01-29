@@ -1,7 +1,33 @@
-# CodSoft-Projects
+# Machine Learning Internship Tasks
 
-Movie Genre Classification: Create a model to predict a movie's genre using its plot summary or textual information. Techniques like TF-IDF or word embeddings combined with classifiers like Naive Bayes, Logistic Regression, or SVMs are recommended.
-Credit Card Fraud Detection: Develop a model to detect fraudulent credit card transactions using a dataset of transaction information. Algorithms like Logistic Regression, Decision Trees, or Random Forests can be used for classification.
-Customer Churn Prediction: Build a model to predict customer churn for subscription-based services. This involves using historical customer data, including usage behavior and demographics, with algorithms like Logistic Regression, Random Forests, or Gradient Boosting.
-Spam SMS Detection: Create an AI model to classify SMS messages as spam or legitimate. Techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or SVMs are suggested.
-Handwritten Text Generation: Implement a character-level RNN to generate handwritten-like text. The model should be trained on a dataset of handwritten text examples.
+## Tasks
+
+### Task 1: Movie Genre Classification
+
+Build a model to predict movie genres based on plot summaries. 
+
+[Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+
+### Task 2: Credit Card Fraud Detection
+
+Build a model to detect fraudulent credit card transactions.
+
+[Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
+### Task 3: Customer Churn Prediction
+
+Develop a model to predict customer churn for a subscription-based service or business.
+
+[Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction) 
+
+### Task 4: Spam SMS Detection  
+
+Build an AI model that can classify SMS messages as spam or legitimate.
+
+[Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
+### Task 5: Handwritten Text Generation
+
+Implement a character-level recurrent neural network (RNN) to generate handwritten-like text. 
+
+[Dataset](https://paperswithcode.com/dataset/hkr)
